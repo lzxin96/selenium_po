@@ -1,0 +1,34 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "TestScript",
+    "children" : [ {
+      "name" : "Test_Baidu_Main_Page_Plus",
+      "children" : [ {
+        "name" : "Search_Page",
+        "children" : [ {
+          "name" : "test_search_davieyang",
+          "uid" : "15233b138d488882",
+          "parentUid" : "6146cb5edb563648a858f0578a33581e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1649732587311,
+            "stop" : 1649732597064,
+            "duration" : 9753
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6146cb5edb563648a858f0578a33581e"
+      } ],
+      "uid" : "3d664c6248555faaff3f13b0aa7cddc2"
+    } ],
+    "uid" : "1a80b786092dda37beb9c24adcc5b80c"
+  } ]
+}

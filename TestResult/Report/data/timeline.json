@@ -1,0 +1,30 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "WIN-20200917PHV",
+    "children" : [ {
+      "name" : "40584-MainThread",
+      "children" : [ {
+        "name" : "test_search_davieyang",
+        "uid" : "15233b138d488882",
+        "parentUid" : "b9d77c0bc2365ea82801956c37d8df65",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649732587311,
+          "stop" : 1649732597064,
+          "duration" : 9753
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b9d77c0bc2365ea82801956c37d8df65"
+    } ],
+    "uid" : "1f8ab59737d42334d8bc9b8a4d20635a"
+  } ]
+}
